@@ -47,4 +47,4 @@ go to:
 My name is Artur Rączka and I am a Kooperatywa member myself. I was really tired and irritated using the old spreadsheet system so I decided to use my growing web dev skills and build a new, efficient system from scratch.
 This is my portfolio project I am working on after hours, while aiming to land a software developer job as soon as an opportunity will come.
 
-I built this full-stack web app with Python using Django framework.
+I built this full-stack web app with Python using Django framework. 
